@@ -23,6 +23,6 @@ public class Sort {
         return datas;
     }
 
-    //冒泡排序
+    //插入排序
 
 }
