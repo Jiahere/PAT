@@ -51,4 +51,9 @@ public class Sort {
         }
         return datas;
     }
+    //快速排序
+    private  static int[] quickSort(int[] datas){
+
+        return datas;
+    }
 }
